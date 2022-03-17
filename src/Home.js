@@ -24,8 +24,8 @@ function Home() {
               <div className="home_meta">
                 <h1 className="home_text pz_10">WELCOME TO MY WORLD!!</h1>
                 <h2 className="home_text pz_10">Hi, I am Ashikur</h2>
-                <h3 className="home_text sweet">EEE Graduate</h3>
-                <h4 className="home_text pz_10">From Dhaka</h4>
+                <h3 className="home_text sweet">EEE </h3>
+                <h4 className="home_text pz_10">From BUBT</h4>
               </div>
             </div>
           </div>
